@@ -9,7 +9,7 @@ The project is designed to analyze the lexical and syntactic structure of a give
 
 To run this project, you will need:
 
-- **Java/JVM** (if implemented in Java)
+- **Java/JVM** (Java)
 - **NetBeans IDE** or any other preferred IDE
 
 ---
