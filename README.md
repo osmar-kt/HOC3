@@ -5,7 +5,7 @@ The project is designed to analyze the lexical and syntactic structure of a give
 
 ---
 
-## Requirements
+# Requirements
 
 To run this project, you will need:
 
@@ -14,6 +14,6 @@ To run this project, you will need:
 
 ---
 
-## Acknowledgments
+# Acknowledgments
 
 Special thanks to **Professor Andrés Ortigoza Campos** for his guidance throughout the course.
