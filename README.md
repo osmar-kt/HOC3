@@ -14,6 +14,13 @@ To run this project, you will need:
 
 ---
 
+## Project Structure
+
+- **/project_files**: Contains the extracted files of the project, including source code, configuration, and other essential components for the project.
+- **/project_zip**: Contains the compressed version of the project, useful for backups or sharing the entire project in a single file.
+
+---
+
 #### Acknowledgments
 
 Special thanks to **Professor Andrés Ortigoza Campos** for his guidance throughout the course.
