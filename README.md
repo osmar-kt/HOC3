@@ -16,8 +16,16 @@ To run this project, you will need:
 
 ## Project Structure
 
-- **/project_files**: Contains the extracted files of the project, including source code, configuration, and other essential components for the project.
-- **/project_zip**: Contains the compressed version of the project, useful for backups or sharing the entire project in a single file.
+- **/project_files**:  
+  Contains the extracted files of the project, including:
+  - Source code
+  - Configuration files
+  - Other essential components required for the project
+
+- **/project_zip**:  
+  Contains the compressed version of the project, which is useful for:
+  - Backups
+  - Sharing the entire project in a single file
 
 ---
 
